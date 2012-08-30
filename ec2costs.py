@@ -7,6 +7,7 @@ ondemand_costs_url = "http://aws.amazon.com/ec2/pricing/pricing-on-demand-instan
 
 ec2_type_map = {"stdODI": "m1",
                 "uODI": "t1",
+                "hiIoODI" : "hi1",
                 "hiMemODI": "m2",
                 "hiCPUODI": "c1",
                 "clusterComputeI": "cc1",
